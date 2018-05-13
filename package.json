@@ -1,0 +1,27 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "just simple server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubickmagic96/simple-server.git"
+  },
+  "keywords": [
+    "simple",
+    "server",
+    "with",
+    "express",
+    "js"
+  ],
+  "author": "rubickmagic96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubickmagic96/simple-server/issues"
+  },
+  "homepage": "https://github.com/rubickmagic96/simple-server#readme"
+}
